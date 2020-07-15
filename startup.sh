@@ -1,9 +1,9 @@
 #!/bin/bash
 
-DataSync_Version=v2.3.0
-ComputerEngine_Version=v2.3.0
-CodeServer_Version=v2.3.0
-TerminalCenter_Version=v2.3.0
+DataSync_Version=v1.5.1
+ComputerEngine_Version=v1.3.0
+CodeServer_Version=v2.3.7
+TerminalCenter_Version=v2.4.0
 
 
 read -p " 
